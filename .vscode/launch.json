@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "BinaryToDecimal",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "CheckPrimewithfunc",
+            "request": "launch",
+            "mainClass": "CheckPrimewithfunc",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "Factorail",
+            "request": "launch",
+            "mainClass": "Factorail",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "Forloop",
+            "request": "launch",
+            "mainClass": "Forloop",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "FunctionOverRiding",
+            "request": "launch",
+            "mainClass": "FunctionOverRiding",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "PrintHollowrect",
+            "request": "launch",
+            "mainClass": "PrintHollowrect",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "PrintNnurtalNumber",
+            "request": "launch",
+            "mainClass": "PrintNnurtalNumber",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "PrintNumber",
+            "request": "launch",
+            "mainClass": "PrintNumber",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "PrintPrimeNumber",
+            "request": "launch",
+            "mainClass": "PrintPrimeNumber",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "PrintnumberTon",
+            "request": "launch",
+            "mainClass": "PrintnumberTon",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "PrintreverNuber",
+            "request": "launch",
+            "mainClass": "PrintreverNuber",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "ReversGivenNumber",
+            "request": "launch",
+            "mainClass": "ReversGivenNumber",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "SquarePattern",
+            "request": "launch",
+            "mainClass": "SquarePattern",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "continueSkip",
+            "request": "launch",
+            "mainClass": "continueSkip",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "decToBin",
+            "request": "launch",
+            "mainClass": "decToBin",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "keepEnterNumber",
+            "request": "launch",
+            "mainClass": "keepEnterNumber",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
+            "name": "printPrimentime",
+            "request": "launch",
+            "mainClass": "printPrimentime",
+            "projectName": "JavaDsa_47a17b67"
+        }
+    ]
+}

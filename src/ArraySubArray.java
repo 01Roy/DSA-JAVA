@@ -1,6 +1,7 @@
 public class ArraySubArray {
 
     public static void PrintSubArray(int numbers[]) {
+        int ts = 0;
         for (int i = 0; i < numbers.length; i++) {
             int start = i;
             for (int j = i; j < numbers.length; j++) {
@@ -8,10 +9,12 @@ public class ArraySubArray {
                 for (int k = start; k <= end; k++) {
                     System.out.print(numbers[k] + " ");
                 }
+                ts++;
                 System.out.println();
             }
             System.out.println();
         }
+        System.out.println("total subarrays = " + ts);
     }
 
     public static void main(String[] args) {

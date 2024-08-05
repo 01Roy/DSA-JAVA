@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Palandirom",
+            "request": "launch",
+            "mainClass": "Palandirom",
+            "projectName": "JavaDsa_47a17b67"
+        },
+        {
+            "type": "java",
             "name": "BubbleSort",
             "request": "launch",
             "mainClass": "BubbleSort",

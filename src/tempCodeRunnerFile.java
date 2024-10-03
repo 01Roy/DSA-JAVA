@@ -1,1 +1,1 @@
-matrix
+        System.out.println(compressStr(str));
